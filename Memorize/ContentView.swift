@@ -17,7 +17,7 @@ struct ContentView: View {
             CardView()
             CardView()
         }
-        .foregroundColor(.orange)
+        .foregroundColor(.yellow)
         .imageScale(.large)
         .padding()
     }
